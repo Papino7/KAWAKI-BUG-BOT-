@@ -11,13 +11,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "22781289418"
+global.ownernomer = "221769469119"
 global.ownername = "💫 𝙺𝙰𝚆𝙰𝙺𝙸"
 global.ytname = "YT: KA-WA-KI"
 global.socialm = "GitHub: kawaki227"
 global.location = "neger"
 
-global.ownernumber = '22781289418'  //creator number
+global.ownernumber = '221769469119'  //creator number
 global.ownername = '𝙺𝙰𝚆𝙰𝙺𝙸 𝙱𝚄𝙶' //owner name
 global.botname = '𝙺𝙰𝚆𝙰𝙺𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
 
